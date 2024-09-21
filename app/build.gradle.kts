@@ -1,4 +1,7 @@
 import com.android.build.api.dsl.ViewBinding
+import org.apache.tools.ant.util.JavaEnvUtils.VERSION_11
+import org.apache.tools.ant.util.JavaEnvUtils.VERSION_1_8
+
 
 plugins {
     alias(libs.plugins.android.application)
@@ -29,12 +32,14 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_1_8
-        targetCompatibility = JavaVersion.VERSION_1_8
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
     }
+
     kotlinOptions {
-        jvmTarget = "1.8"
+        jvmTarget = "11"
     }
+
     buildFeatures {
         viewBinding = true
     }

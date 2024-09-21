@@ -25,11 +25,12 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_1_8
-        targetCompatibility = JavaVersion.VERSION_1_8
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
     }
+
     kotlinOptions {
-        jvmTarget = "1.8"
+        jvmTarget = "11"
     }
 }
 
@@ -47,7 +48,7 @@ dependencies {
 }
 
 group = "com.github.DIABLOSER"
-version = "1.0.0"
+version = "1.0.1"
 
 afterEvaluate {
     publishing {
@@ -56,8 +57,10 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.daboluo.library"
                 artifactId = "ZsmGridImageView"
-                version = "1.0.0"
+                version = "1.0.1"
             }
         }
     }
+
+
 }
