@@ -8,7 +8,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.daboluo.library.ZsmGridImageView
+import com.daboluo.library.NineGridImageView
 import de.hdodenhof.circleimageview.CircleImageView
 
 /**
@@ -51,6 +51,6 @@ class PostAdapter(
         val avatar: CircleImageView =itemView.findViewById(R.id.avatar)
         val username:TextView=itemView.findViewById(R.id.username)
         val content: TextView = itemView.findViewById(R.id.content)
-        val nineGridImageView:ZsmGridImageView=itemView.findViewById(R.id.nineGridImageView)
+        val nineGridImageView:NineGridImageView=itemView.findViewById(R.id.nineGridImageView)
     }
 }

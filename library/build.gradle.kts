@@ -56,7 +56,7 @@ afterEvaluate {
             create<MavenPublication>("release") {
                 from(components["release"])
                 groupId = "com.daboluo.library"
-                artifactId = "ZsmGridImageView"
+                artifactId = "NineGridImageView"
                 version = "1.0.1"
             }
         }

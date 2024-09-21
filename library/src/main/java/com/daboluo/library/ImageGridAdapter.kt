@@ -20,7 +20,7 @@ class ImageGridAdapter(
     private var ImageLoadedError: Drawable? = null
 ) : RecyclerView.Adapter<ImageGridAdapter.ImageViewHolder>() {
 
-    var listener: ZsmGridImageView.OnImageClickListener? = null
+    var listener: NineGridImageView.OnImageClickListener? = null
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ImageViewHolder {
         val view = LayoutInflater.from(parent.context)

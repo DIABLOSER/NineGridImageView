@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.RecyclerView
  *作者：daboluo on 2024/9/14 15:18
  *Email:daboluo719@gmail.com
  */
-class ZsmGridImageView @JvmOverloads constructor(
+class NineGridImageView @JvmOverloads constructor(
     context: Context,
     attrs: AttributeSet? = null,
     defStyle: Int = 0
@@ -96,7 +96,7 @@ class ZsmGridImageView @JvmOverloads constructor(
     ) {
         val currentAdapter = adapter as? ImageGridAdapter
         currentAdapter?.let {
-            it.listener = object : ZsmGridImageView.OnImageClickListener {
+            it.listener = object : NineGridImageView.OnImageClickListener {
                 override fun onImageClick(position: Int, imageUrl: String) {
                     clickListener(position, imageUrl)
                 }
