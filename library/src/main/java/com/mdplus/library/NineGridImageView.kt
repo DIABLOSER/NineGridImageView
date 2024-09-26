@@ -1,4 +1,4 @@
-package com.daboluo.library
+package com.mdplus.library
 
 import android.content.Context
 import android.graphics.drawable.Drawable
@@ -96,7 +96,7 @@ class NineGridImageView @JvmOverloads constructor(
     ) {
         val currentAdapter = adapter as? ImageGridAdapter
         currentAdapter?.let {
-            it.listener = object : NineGridImageView.OnImageClickListener {
+            it.listener = object : OnImageClickListener {
                 override fun onImageClick(position: Int, imageUrl: String) {
                     clickListener(position, imageUrl)
                 }

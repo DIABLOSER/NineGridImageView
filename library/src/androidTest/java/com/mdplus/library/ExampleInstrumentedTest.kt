@@ -1,4 +1,4 @@
-package com.daboluo.library
+package com.mdplus.library
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

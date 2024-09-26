@@ -1,16 +1,15 @@
-package com.daboluo.app
+package com.mdplus.app
 
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.daboluo.app.databinding.ActivityMainBinding
+
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
+import com.mdplus.app.databinding.ActivityMainBinding
 import java.io.InputStreamReader
 
 class MainActivity : AppCompatActivity() {

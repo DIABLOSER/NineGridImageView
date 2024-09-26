@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.daboluo.library"
+    namespace = "com.mdplus.library"
     compileSdk = 34
 
     defaultConfig {
@@ -55,7 +55,7 @@ afterEvaluate {
         publications {
             create<MavenPublication>("release") {
                 from(components["release"])
-                groupId = "com.daboluo.library"
+                groupId = "com.mdplus.library"
                 artifactId = "NineGridImageView"
                 version = "1.0.1"
             }

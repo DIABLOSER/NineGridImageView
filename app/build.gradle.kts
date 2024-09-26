@@ -1,7 +1,3 @@
-import com.android.build.api.dsl.ViewBinding
-import org.apache.tools.ant.util.JavaEnvUtils.VERSION_11
-import org.apache.tools.ant.util.JavaEnvUtils.VERSION_1_8
-
 
 plugins {
     alias(libs.plugins.android.application)
@@ -9,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.daboluo.app"
+    namespace = "com.mdplus.app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.daboluo.app"
+        applicationId = "com.mdplus.app"
         minSdk = 28
         targetSdk = 34
         versionCode = 1

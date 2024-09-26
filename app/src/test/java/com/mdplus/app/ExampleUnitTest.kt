@@ -1,4 +1,4 @@
-package com.daboluo.app
+package com.mdplus.app
 
 import org.junit.Test
 

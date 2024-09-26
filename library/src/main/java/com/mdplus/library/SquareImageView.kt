@@ -1,4 +1,4 @@
-package com.daboluo.library
+package com.mdplus.library
 
 import android.content.Context
 import android.graphics.Paint
