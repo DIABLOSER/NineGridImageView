@@ -21,7 +21,7 @@ dependencyResolutionManagement {
 __Step 2.__ 添加依赖：
 ```
 dependencies {
-	        implementation 'com.github.DIABLOSER:ZsmGridImageView:Tag'
+	        implementation 'com.github.DIABLOSER:ZsmGridImageView:1.0.1'
 	}
 ```
 __Step 3.__ 最简单的使用：
