@@ -47,8 +47,8 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 }
 
-group = "com.mdplus.app"
-version = "1.0.2"
+group = "com.github.daboluo7"
+version = "1.0.3"
 
 afterEvaluate {
     publishing {
@@ -57,7 +57,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.mdplus.library"
                 artifactId = "NineGridImageView"
-                version = "1.0.2"
+                version = "1.0.3"
             }
         }
     }
