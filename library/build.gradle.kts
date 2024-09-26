@@ -47,7 +47,7 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 }
 
-group = "com.github.daboluo7"
+group = "com.github.DIABLOSER"
 version = "1.0.3"
 
 afterEvaluate {
