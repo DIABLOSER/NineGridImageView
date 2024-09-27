@@ -8,7 +8,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.mdplus.library.NineGridImageView
+import com.mdplus.nineGridImageView.NineGridImageView
 import de.hdodenhof.circleimageview.CircleImageView
 
 /**

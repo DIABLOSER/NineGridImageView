@@ -1,4 +1,4 @@
-package cn.mdplus.nineGridImageView
+package com.mdplus.nineGridImageView
 
 import android.content.Context
 import androidx.recyclerview.widget.GridLayoutManager

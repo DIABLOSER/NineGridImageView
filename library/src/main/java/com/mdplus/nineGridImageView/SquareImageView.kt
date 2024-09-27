@@ -1,4 +1,4 @@
-package cn.mdplus.nineGridImageView
+package com.mdplus.nineGridImageView
 
 import android.content.Context
 import android.graphics.Paint
