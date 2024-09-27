@@ -1,4 +1,4 @@
-package com.mdplus.app
+package com.mdplus.nineGridImageView
 
 import android.os.Bundle
 import android.view.Menu
@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import com.mdplus.app.databinding.ActivityMainBinding
+import com.mdplus.nineGridImageView.databinding.ActivityMainBinding
 import java.io.InputStreamReader
 
 class MainActivity : AppCompatActivity() {

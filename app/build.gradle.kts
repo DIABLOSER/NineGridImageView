@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mdplus.app"
+    namespace = "com.mdplus.nineGridImageView"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.mdplus.app"
+        applicationId = "com.mdplus.nineGridImageView"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
