@@ -1,6 +1,6 @@
 NineGridImageView
 =================
-[![](https://jitpack.io/v/DIABLOSER/ZsmGridImageView.svg)](https://jitpack.io/#DIABLOSER/ZsmGridImageView)
+[![](https://jitpack.io/v/DIABLOSER/NineGridImageView.svg)](https://jitpack.io/#DIABLOSER/NineGridImageView)
 
 功能描述 Function description
 ============================
