@@ -17,7 +17,7 @@
         android:theme="@style/Theme.pink"
         tools:targetApi="31">
         <activity
-            android:name="com.mdplus.nineGridImageView.MainActivity"
+            android:name="com.mdplus.nineGridImageView.cn.mdplus.nineGridImageView.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

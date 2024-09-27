@@ -1,4 +1,4 @@
-package com.mdplus.nineGridImageView
+package cn.mdplus.nineGridImageView
 
 import org.junit.Test
 

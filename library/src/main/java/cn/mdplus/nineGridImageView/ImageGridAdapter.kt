@@ -1,4 +1,4 @@
-package com.mdplus.nineGridImageView
+package cn.mdplus.nineGridImageView
 
 import android.content.Context
 import android.graphics.drawable.Drawable
@@ -8,6 +8,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 
 import com.bumptech.glide.Glide
+import com.mdplus.nineGridImageView.R
 
 /**
  *作者：daboluo on 2024/9/14 15:20

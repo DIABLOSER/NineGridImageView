@@ -1,4 +1,4 @@
-package com.mdplus.library
+package cn.mdplus.library
 
 import org.junit.Test
 

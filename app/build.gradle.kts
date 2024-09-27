@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mdplus.nineGridImageView"
+    namespace = "cn.mdplus.nineGridImageView"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.mdplus.nineGridImageView"
+        applicationId = "cn.mdplus.nineGridImageView"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
@@ -43,9 +43,8 @@ android {
 
 dependencies {
 
-//    implementation(project(":library"))
+    implementation(project(":library"))
 
-    implementation("com.github.DIABLOSER:NineGridImageView:1.0.3")
     implementation("com.google.code.gson:gson:2.8.9")  // 添加 Gson 库的依赖
 
     implementation("com.github.bumptech.glide:glide:4.15.1")
