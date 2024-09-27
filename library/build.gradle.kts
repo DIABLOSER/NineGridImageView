@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.mdplus.library"
+    namespace = "com.mdplus.nineGridImageView"
     compileSdk = 34
 
     defaultConfig {
@@ -55,12 +55,10 @@ afterEvaluate {
         publications {
             create<MavenPublication>("release") {
                 from(components["release"])
-                groupId = "com.mdplus.library"
+                groupId = "com.mdplus.nineGridImageView"
                 artifactId = "NineGridImageView"
                 version = "1.0.3"
             }
         }
     }
-
-
 }

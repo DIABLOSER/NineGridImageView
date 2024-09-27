@@ -43,8 +43,9 @@ android {
 
 dependencies {
 
-    implementation(project(":library"))
+//    implementation(project(":library"))
 
+    implementation("com.github.DIABLOSER:NineGridImageView:1.0.3")
     implementation("com.google.code.gson:gson:2.8.9")  // 添加 Gson 库的依赖
 
     implementation("com.github.bumptech.glide:glide:4.15.1")
