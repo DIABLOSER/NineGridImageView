@@ -44,7 +44,7 @@ __Step 4.__ Add in your Activity/Fragment/Adapter：
 //Set up automatic distribution
 nineGridImageView.setAutoDistribution(true)
 // Set image link array
-nineGridImageView.setImageUrls(datasBean.imageUrl)
+nineGridImageView.setImageUrls(imageUrl)
 //click event
 nineGridImageView.setItemImageOnClickListener { position, url ->
     // Handle click event
