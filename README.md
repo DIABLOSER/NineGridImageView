@@ -2,6 +2,10 @@
 
 [![](https://jitpack.io/v/DIABLOSER/NineGridImageView.svg)](https://jitpack.io/#DIABLOSER/NineGridImageView)
 
+![中文文档](https://github.com/DIABLOSER/NineGridImageView/edit/main/README.md)
+
+![English document](https://github.com/DIABLOSER/NineGridImageView/edit/main/README_En.md)
+
 # 截图效果
 ![截图效果](https://github.com/DIABLOSER/NineGridImageView/blob/main/Screen_recording_20240927_002157.gif)
 
