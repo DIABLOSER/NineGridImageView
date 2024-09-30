@@ -43,7 +43,7 @@ __Step 4.__ 在你的Activity/Fragment/Adapter中添加：
 //设置自动分布
 nineGridImageView.setAutoDistribution(true)
 // 设置图片链接数组
-nineGridImageView.setImageUrls(datasBean.imageUrl)
+nineGridImageView.setImageUrls(imageUrl)
 //点击事件
 nineGridImageView.setItemImageOnClickListener { position, url ->
     // 处理单击事件
