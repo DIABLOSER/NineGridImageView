@@ -9,11 +9,11 @@
 # 截图效果
 ![截图效果](https://github.com/DIABLOSER/NineGridImageView/blob/main/Screen_recording_20240927_002157.gif)
 
-# 功能描述 Function description
+# 功能描述
 
 NineGridImageView是一个基于RecyclerView实现的九宫格图片的库，当然了，NineGridImageView不仅仅支持“九宫格布局”，还支持“四宫格”等，使用起来非常方便。如果喜欢的话，欢迎提Issues。
 
-# 接入文档 Access documents
+# 接入文档
 
 __Step 1.__ 在你的根 build.gradle 文件末尾添加它到 repositories 中：
 ```
@@ -28,7 +28,7 @@ dependencyResolutionManagement {
 __Step 2.__ 添加依赖：
 ```
 dependencies {
-	implementation 'com.github.DIABLOSER:ZsmGridImageView:1.0.1'
+	implementation 'com.github.DIABLOSER:ZsmGridImageView:1.0.7'
 }
 ```
 __Step 3.__ 在你的xml文件中添加：
