@@ -3,7 +3,7 @@
 [![](https://jitpack.io/v/DIABLOSER/NineGridImageView.svg)](https://jitpack.io/#DIABLOSER/NineGridImageView)
 
 # 截图效果
-![截图效果]()
+![截图效果](https://github.com/DIABLOSER/NineGridImageView/blob/main/Screen_recording_20240927_002157.gif)
 
 # 功能描述 Function description
 
