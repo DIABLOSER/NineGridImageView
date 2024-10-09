@@ -4,6 +4,7 @@
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
+<!--    我记得还有一个什么属性才能设置max，min-->
     <com.mdplus.nineGridImageView.SquareImageView
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/imageView"
@@ -12,8 +13,12 @@
         android:scaleType="centerCrop"
         android:layout_margin="2dp"
         app:cornerRadius="30dp"
-        android:layout_weight="1"
+        android:maxWidth="200dp"
+        android:maxHeight="200dp"
+
         android:adjustViewBounds="true" />
 
+<!--    不管用什么方法，现在只要效果实现，但是也不希望大改（）1okok-->
 
+<!--    你研究一下？大概意思你明白了吧？好的没有时间要求只要不太久就好了1-->
 </LinearLayout>

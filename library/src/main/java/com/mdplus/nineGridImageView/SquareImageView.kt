@@ -1,17 +1,24 @@
 package com.mdplus.nineGridImageView
 
 import android.content.Context
+import android.graphics.Canvas
 import android.graphics.Paint
+import android.graphics.Path
 import android.graphics.PorterDuff
 import android.graphics.PorterDuffXfermode
+import android.graphics.RectF
 import android.util.AttributeSet
 import androidx.appcompat.widget.AppCompatImageView
+import androidx.core.graphics.drawable.toBitmap
 import kotlin.math.max
 
 /**
  *作者：daboluo on 2024/9/14 16:12
  *Email:daboluo719@gmail.com
  * 让图片始终保持正方形
+ * 还有一个要求哦
+ * 如果图片是单张，最好设一个最大宽高
+ * 要求图片带弧度：实现方法SquareImageView+CardLayout实现
  */
 class SquareImageView @JvmOverloads constructor(
     context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = 0
@@ -19,6 +26,10 @@ class SquareImageView @JvmOverloads constructor(
 
     // 定义画笔
     private val paint = Paint(Paint.ANTI_ALIAS_FLAG)
+
+    //定义路径
+    private val path = Path()
+    private var cornerRadius = 20f // 圆角半径
 
     init {
         // 你可以在这里处理自定义属性（如：圆角半径）或初始化画笔等
@@ -30,8 +41,23 @@ class SquareImageView @JvmOverloads constructor(
         super.onMeasure(widthMeasureSpec, heightMeasureSpec)
 
         // 取宽高的最小值，让长宽相等
-        val size = max(measuredWidth, measuredHeight)
+        var size = max(measuredWidth, measuredHeight)
+        //设置最大尺寸
+        if (size > 500){
+            size = 500
+        }
         setMeasuredDimension(size, size)
+    }
+    override fun onDraw(canvas: Canvas) {
+        val bitmap = drawable?.toBitmap() // 获取位图
+        if (bitmap != null) {
+            path.reset()
+            val rect = RectF(0f, 0f, width.toFloat(), height.toFloat())
+            path.addRoundRect(rect, cornerRadius, cornerRadius, Path.Direction.CW)
+            canvas.clipPath(path)
+            canvas.drawBitmap(bitmap, null, rect, paint)
+        }
+        super.onDraw(canvas)
     }
 
 }

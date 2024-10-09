@@ -9,6 +9,14 @@ pluginManagement {
         }
         mavenCentral()
         gradlePluginPortal()
+
+        //下面三个是我们自己加的
+        maven { url = uri("https://maven.aliyun.com/repository/public/") }
+        maven { url  = uri("https://maven.aliyun.com/repository/gradle-plugin") }
+        maven { url  = uri("https://maven.aliyun.com/repository/central") }
+
+
+
     }
 }
 dependencyResolutionManagement {
@@ -16,10 +24,14 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        mavenCentral()
         maven {
             url = uri("https://jitpack.io")
         }
+        //下面两个是我们自己加的
+        maven { url = uri("https://maven.aliyun.com/repository/public/") }
+        maven { url = uri("https://maven.aliyun.com/repository/central") }
+
+
     }
 }
 
