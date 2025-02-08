@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color pink
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id a
+id about
+id avatar
+id b
+id content
+id main
+id nineGridImageView
+id recyclerView
+id toolbar
+id username
+layout activity_main
+layout item_post
+menu main
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw data
+string app_name
+style Base.Theme.MyApplication
+style Theme.MyApplication
+style Theme.pink
+xml backup_rules
+xml data_extraction_rules
+xml network

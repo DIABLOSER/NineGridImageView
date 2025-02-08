@@ -1,0 +1,6 @@
+com.mdplus.nineGridImageView
+attr cornerRadius
+drawable ic_android_black_24dp
+id imageView
+layout item_image
+styleable SquareImageView cornerRadius

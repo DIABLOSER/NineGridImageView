@@ -1,0 +1,338 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/daboluo/.gradle/caches/transforms-3/97fb2a0c1e8dbc06ba2d6de84165ea40/transformed/viewbinding-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [:library] /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/library/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.10.0] /Users/daboluo/.gradle/caches/transforms-3/2fc520c1384f11a8ed4a0afb1f9beefd/transformed/material-1.10.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/daboluo/.gradle/caches/transforms-3/6369afb0a488132505a3f40448bf8f57/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/daboluo/.gradle/caches/transforms-3/0b703931563d5bb125e29e6291bc35af/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/daboluo/.gradle/caches/transforms-3/960188ef235cd638ce2c6b1eb63f5020/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /Users/daboluo/.gradle/caches/transforms-3/d29ef4a32ed3f133565812616a29729d/transformed/glide-4.15.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/6326f45bcc8d3ac8fd3b596dbe0a8140/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/daboluo/.gradle/caches/transforms-3/74134416d06f89f683c17a8f321bd8c2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/daboluo/.gradle/caches/transforms-3/a1162702b7043ca250abfa4284050a28/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/ef438779978f8a9981a801329551980f/transformed/core-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/f556a38f12b37bc59076db6f86a8c49c/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/9f2e03a29b026941860e241f6c1ae7e1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/50e7b6f15bd54b9f367e515635d46a3f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/6613ef32a5bb9d0e9020b73225e4501e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/5e8f9f8783d84d4243fc423dd0451cc6/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/fc444843ecdd308afd8120b912a2a297/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/ca8720216348eba0137d56fd36897005/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/1594602b6d7795138d1621fca71d3240/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/8842b50f8c3f05df1bcc32b66dbb669b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/fb3b767ec2e57bfd49764b39c247635d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/294a96ff1890f7c33178df0a10005a77/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/99da989567a2e0a12041dcefb6de0b15/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/daboluo/.gradle/caches/transforms-3/f2ed32286ae814246983b07bf004388c/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/14d8d3c1afc5cc425ab6c2443d55f14d/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/b67f40e3c5fd7bcd0ebf9ca688fedbe3/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/f45e9dcbffe0e958c670d718be7faa7b/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/cbf80aac5ceff47db9f02c8ae7b11235/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/e2eb5920ec5b3879d3d9cd94f0d403e4/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/874a527782e4cc58f3ef72084f74c782/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/daboluo/.gradle/caches/transforms-3/cb45d06193cb86ccdd2ec9ac12711af5/transformed/circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /Users/daboluo/.gradle/caches/transforms-3/6dbe8f740bf4b5249fd7b887b4d81106/transformed/gifdecoder-4.15.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/daboluo/.gradle/caches/transforms-3/f7f17e11447d9229ba8546e1d2e59d94/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/0626ffc2fb90c62971bb5acfb098567c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/ad68c5cd85d09c27a26d188bce5ad0e8/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/6fcdc1b88e956362f08e9b034898d28b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/8a9519647704ae70c60e225f9117a600/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/8f270c43c1c8bab0984bb48e61109f94/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/dda86b6d92e66e4acd9a621cacc67dc0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/daboluo/.gradle/caches/transforms-3/253db7cd5f597c3c259c71d837b5c2d3/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/830f69b28e3b1f8bc9c127341d6dc546/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/5007b21b097bacc22ecf7da2175f1d53/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/efadcffea7a98a4ca55f1c0ce4bcb363/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/01349f580e5abd9b52fa8523e13717d6/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [com.google.android.material:material:1.10.0] /Users/daboluo/.gradle/caches/transforms-3/2fc520c1384f11a8ed4a0afb1f9beefd/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] /Users/daboluo/.gradle/caches/transforms-3/2fc520c1384f11a8ed4a0afb1f9beefd/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/daboluo/.gradle/caches/transforms-3/6369afb0a488132505a3f40448bf8f57/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/daboluo/.gradle/caches/transforms-3/6369afb0a488132505a3f40448bf8f57/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /Users/daboluo/.gradle/caches/transforms-3/d29ef4a32ed3f133565812616a29729d/transformed/glide-4.15.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /Users/daboluo/.gradle/caches/transforms-3/d29ef4a32ed3f133565812616a29729d/transformed/glide-4.15.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/b67f40e3c5fd7bcd0ebf9ca688fedbe3/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/b67f40e3c5fd7bcd0ebf9ca688fedbe3/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/daboluo/.gradle/caches/transforms-3/cb45d06193cb86ccdd2ec9ac12711af5/transformed/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/daboluo/.gradle/caches/transforms-3/cb45d06193cb86ccdd2ec9ac12711af5/transformed/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /Users/daboluo/.gradle/caches/transforms-3/6dbe8f740bf4b5249fd7b887b4d81106/transformed/gifdecoder-4.15.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /Users/daboluo/.gradle/caches/transforms-3/6dbe8f740bf4b5249fd7b887b4d81106/transformed/gifdecoder-4.15.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/0626ffc2fb90c62971bb5acfb098567c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/0626ffc2fb90c62971bb5acfb098567c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/8f270c43c1c8bab0984bb48e61109f94/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/8f270c43c1c8bab0984bb48e61109f94/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:16:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:13:9-54
+	tools:targetApi
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:18:9-29
+	android:icon
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:17:9-42
+	android:networkSecurityConfig
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:15:9-53
+	android:dataExtractionRules
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:9:9-65
+activity#cn.mdplus.nineGridImageView.MainActivity
+ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:exported
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:20:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/daboluo/.gradle/caches/transforms-3/97fb2a0c1e8dbc06ba2d6de84165ea40/transformed/viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/daboluo/.gradle/caches/transforms-3/97fb2a0c1e8dbc06ba2d6de84165ea40/transformed/viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [:library] /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/library/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:library] /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/library/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.10.0] /Users/daboluo/.gradle/caches/transforms-3/2fc520c1384f11a8ed4a0afb1f9beefd/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] /Users/daboluo/.gradle/caches/transforms-3/2fc520c1384f11a8ed4a0afb1f9beefd/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/daboluo/.gradle/caches/transforms-3/6369afb0a488132505a3f40448bf8f57/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/daboluo/.gradle/caches/transforms-3/6369afb0a488132505a3f40448bf8f57/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/daboluo/.gradle/caches/transforms-3/0b703931563d5bb125e29e6291bc35af/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/daboluo/.gradle/caches/transforms-3/0b703931563d5bb125e29e6291bc35af/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/daboluo/.gradle/caches/transforms-3/960188ef235cd638ce2c6b1eb63f5020/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/daboluo/.gradle/caches/transforms-3/960188ef235cd638ce2c6b1eb63f5020/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /Users/daboluo/.gradle/caches/transforms-3/d29ef4a32ed3f133565812616a29729d/transformed/glide-4.15.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] /Users/daboluo/.gradle/caches/transforms-3/d29ef4a32ed3f133565812616a29729d/transformed/glide-4.15.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/6326f45bcc8d3ac8fd3b596dbe0a8140/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/6326f45bcc8d3ac8fd3b596dbe0a8140/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/daboluo/.gradle/caches/transforms-3/74134416d06f89f683c17a8f321bd8c2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/daboluo/.gradle/caches/transforms-3/74134416d06f89f683c17a8f321bd8c2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/daboluo/.gradle/caches/transforms-3/a1162702b7043ca250abfa4284050a28/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/daboluo/.gradle/caches/transforms-3/a1162702b7043ca250abfa4284050a28/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/ef438779978f8a9981a801329551980f/transformed/core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/ef438779978f8a9981a801329551980f/transformed/core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/f556a38f12b37bc59076db6f86a8c49c/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/f556a38f12b37bc59076db6f86a8c49c/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/9f2e03a29b026941860e241f6c1ae7e1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/9f2e03a29b026941860e241f6c1ae7e1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/50e7b6f15bd54b9f367e515635d46a3f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/50e7b6f15bd54b9f367e515635d46a3f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/6613ef32a5bb9d0e9020b73225e4501e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/6613ef32a5bb9d0e9020b73225e4501e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/5e8f9f8783d84d4243fc423dd0451cc6/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/5e8f9f8783d84d4243fc423dd0451cc6/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/fc444843ecdd308afd8120b912a2a297/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/fc444843ecdd308afd8120b912a2a297/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/ca8720216348eba0137d56fd36897005/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/ca8720216348eba0137d56fd36897005/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/1594602b6d7795138d1621fca71d3240/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/1594602b6d7795138d1621fca71d3240/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/8842b50f8c3f05df1bcc32b66dbb669b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/8842b50f8c3f05df1bcc32b66dbb669b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/fb3b767ec2e57bfd49764b39c247635d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/fb3b767ec2e57bfd49764b39c247635d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/294a96ff1890f7c33178df0a10005a77/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/294a96ff1890f7c33178df0a10005a77/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/99da989567a2e0a12041dcefb6de0b15/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/daboluo/.gradle/caches/transforms-3/99da989567a2e0a12041dcefb6de0b15/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/daboluo/.gradle/caches/transforms-3/f2ed32286ae814246983b07bf004388c/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/daboluo/.gradle/caches/transforms-3/f2ed32286ae814246983b07bf004388c/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/14d8d3c1afc5cc425ab6c2443d55f14d/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/14d8d3c1afc5cc425ab6c2443d55f14d/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/b67f40e3c5fd7bcd0ebf9ca688fedbe3/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/b67f40e3c5fd7bcd0ebf9ca688fedbe3/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/f45e9dcbffe0e958c670d718be7faa7b/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/f45e9dcbffe0e958c670d718be7faa7b/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/cbf80aac5ceff47db9f02c8ae7b11235/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/cbf80aac5ceff47db9f02c8ae7b11235/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/e2eb5920ec5b3879d3d9cd94f0d403e4/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/e2eb5920ec5b3879d3d9cd94f0d403e4/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/874a527782e4cc58f3ef72084f74c782/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/874a527782e4cc58f3ef72084f74c782/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/daboluo/.gradle/caches/transforms-3/cb45d06193cb86ccdd2ec9ac12711af5/transformed/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/daboluo/.gradle/caches/transforms-3/cb45d06193cb86ccdd2ec9ac12711af5/transformed/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /Users/daboluo/.gradle/caches/transforms-3/6dbe8f740bf4b5249fd7b887b4d81106/transformed/gifdecoder-4.15.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] /Users/daboluo/.gradle/caches/transforms-3/6dbe8f740bf4b5249fd7b887b4d81106/transformed/gifdecoder-4.15.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/daboluo/.gradle/caches/transforms-3/f7f17e11447d9229ba8546e1d2e59d94/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/daboluo/.gradle/caches/transforms-3/f7f17e11447d9229ba8546e1d2e59d94/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/0626ffc2fb90c62971bb5acfb098567c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/0626ffc2fb90c62971bb5acfb098567c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/ad68c5cd85d09c27a26d188bce5ad0e8/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/ad68c5cd85d09c27a26d188bce5ad0e8/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/6fcdc1b88e956362f08e9b034898d28b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/6fcdc1b88e956362f08e9b034898d28b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/8a9519647704ae70c60e225f9117a600/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/8a9519647704ae70c60e225f9117a600/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/8f270c43c1c8bab0984bb48e61109f94/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/8f270c43c1c8bab0984bb48e61109f94/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/dda86b6d92e66e4acd9a621cacc67dc0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/dda86b6d92e66e4acd9a621cacc67dc0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/daboluo/.gradle/caches/transforms-3/253db7cd5f597c3c259c71d837b5c2d3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/daboluo/.gradle/caches/transforms-3/253db7cd5f597c3c259c71d837b5c2d3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/830f69b28e3b1f8bc9c127341d6dc546/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/830f69b28e3b1f8bc9c127341d6dc546/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/5007b21b097bacc22ecf7da2175f1d53/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/5007b21b097bacc22ecf7da2175f1d53/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/efadcffea7a98a4ca55f1c0ce4bcb363/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/daboluo/.gradle/caches/transforms-3/efadcffea7a98a4ca55f1c0ce4bcb363/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/01349f580e5abd9b52fa8523e13717d6/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/01349f580e5abd9b52fa8523e13717d6/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/daboluo/Desktop/超级速算项目/Android/第三方库/NineGridImageView/NineGridImageView/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/b67f40e3c5fd7bcd0ebf9ca688fedbe3/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/b67f40e3c5fd7bcd0ebf9ca688fedbe3/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/0626ffc2fb90c62971bb5acfb098567c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/daboluo/.gradle/caches/transforms-3/0626ffc2fb90c62971bb5acfb098567c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/daboluo/.gradle/caches/transforms-3/4b5091be8013c57f18853b83be434e05/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+permission#cn.mdplus.nineGridImageView.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+uses-permission#cn.mdplus.nineGridImageView.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/daboluo/.gradle/caches/transforms-3/f575fca4acd9f04a43f82d83911609e8/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/b67f40e3c5fd7bcd0ebf9ca688fedbe3/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/b67f40e3c5fd7bcd0ebf9ca688fedbe3/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/daboluo/.gradle/caches/transforms-3/b67f40e3c5fd7bcd0ebf9ca688fedbe3/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/daboluo/.gradle/caches/transforms-3/c92cbd070c25e32fd5d726fa58b116bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

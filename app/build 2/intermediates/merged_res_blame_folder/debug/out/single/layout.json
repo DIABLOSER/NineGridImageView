@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "cn.mdplus.nineGridImageView.app-mergeDebugResources-33:/layout/item_post.xml",
+        "source": "cn.mdplus.nineGridImageView.app-main-36:/layout/item_post.xml"
+    },
+    {
+        "merged": "cn.mdplus.nineGridImageView.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "cn.mdplus.nineGridImageView.app-main-36:/layout/activity_main.xml"
+    }
+]

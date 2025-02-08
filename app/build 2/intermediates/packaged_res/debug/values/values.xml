@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="pink">#FA7298</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">My Application</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+    <style name="Theme.pink" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/pink</item>
+        
+        <item name="colorAccent">@color/pink</item>
+        
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        
+
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/pink</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="titleTextColor">#FFFFFF</item>
+        <item name="subtitleTextColor">#FFFFFF</item>
+        <item name="colorControlNormal">#FFFFFF</item>
+        <item name="android:actionMenuTextColor">#FFFFFF</item>
+    </style>
+</resources>

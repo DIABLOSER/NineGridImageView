@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+attr? cornerRadius
+drawable ic_android_black_24dp
+id imageView
+layout item_image
+styleable SquareImageView cornerRadius
