@@ -1,5 +1,6 @@
 package com.mdplus.nineGridImageView
 
+import android.annotation.SuppressLint
 import android.content.Context
 import android.graphics.Canvas
 import android.graphics.Paint
@@ -48,6 +49,7 @@ class SquareImageView @JvmOverloads constructor(
         }
         setMeasuredDimension(size, size)
     }
+    @SuppressLint("DrawAllocation")
     override fun onDraw(canvas: Canvas) {
         val bitmap = drawable?.toBitmap() // 获取位图
         if (bitmap != null) {

@@ -48,7 +48,7 @@ dependencies {
 }
 
 group = "com.github.DIABLOSER"
-version = "1.0.8"
+version = "1.1.0"
 
 afterEvaluate {
     publishing {
@@ -57,7 +57,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.mdplus.nineGridImageView"
                 artifactId = "NineGridImageView"
-                version = "1.0.8"
+                version = "1.1.0"
             }
         }
     }
