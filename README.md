@@ -28,7 +28,7 @@ dependencyResolutionManagement {
 __Step 2.__ 添加依赖：
 ```
 dependencies {
-	implementation 'com.github.DIABLOSER:ZsmGridImageView:1.0.7'
+	implementation 'com.github.DIABLOSER:ZsmGridImageView:x.y.z'
 }
 ```
 __Step 3.__ 在你的xml文件中添加：
