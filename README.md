@@ -50,3 +50,7 @@ nineGridImageView.setItemImageOnClickListener { position, url ->
     Toast.makeText(mContext, "Clicked image at $position", Toast.LENGTH_SHORT).show()
 }
 ```
+__扩展__ 设置单张图片大小：
+```
+nineGridImageView.setMaxSingleImageWidth(300) // 设置单张图片的最大宽度为 300px
+```
