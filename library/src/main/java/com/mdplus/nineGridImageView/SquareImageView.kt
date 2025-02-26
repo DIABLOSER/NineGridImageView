@@ -31,6 +31,7 @@ class SquareImageView @JvmOverloads constructor(
     //定义路径
     private val path = Path()
     private var cornerRadius = 20f // 圆角半径
+    private var maxSingleImageWidth: Int = 500 // 单张图片的最大宽度
 
     init {
         // 你可以在这里处理自定义属性（如：圆角半径）或初始化画笔等
@@ -43,12 +44,13 @@ class SquareImageView @JvmOverloads constructor(
 
         // 取宽高的最小值，让长宽相等
         var size = max(measuredWidth, measuredHeight)
-        //设置最大尺寸
-        if (size > 500){
-            size = 500
+        // 设置最大尺寸
+        if (size > maxSingleImageWidth) {
+            size = maxSingleImageWidth
         }
         setMeasuredDimension(size, size)
     }
+
     @SuppressLint("DrawAllocation")
     override fun onDraw(canvas: Canvas) {
         val bitmap = drawable?.toBitmap() // 获取位图
@@ -62,4 +64,12 @@ class SquareImageView @JvmOverloads constructor(
         super.onDraw(canvas)
     }
 
+    /**
+     * 设置单张图片的最大宽度
+     * @param maxWidth 最大宽度
+     */
+    fun setMaxSingleImageWidth(maxWidth: Int) {
+        this.maxSingleImageWidth = maxWidth
+        requestLayout() // 请求重新布局
+    }
 }

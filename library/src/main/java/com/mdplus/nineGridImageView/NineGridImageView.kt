@@ -20,6 +20,7 @@ class NineGridImageView @JvmOverloads constructor(
 
     private var imageLoading: Drawable? = null
     private var imageLoadedError: Drawable? = null
+    private var maxSingleImageWidth: Int = 500 // 默认最大宽度
 
     init {
         // 初始化代码块（如果有需要）
@@ -103,9 +104,18 @@ class NineGridImageView @JvmOverloads constructor(
             }
         }
     }
+
+    /**
+     * 设置单张图片的最大宽度
+     * @param maxWidth 最大宽度
+     */
+    fun setMaxSingleImageWidth(maxWidth: Int) {
+        this.maxSingleImageWidth = maxWidth
+        requestLayout() // 请求重新布局
+    }
+
     // 定义接口处理点击事件
     interface OnImageClickListener {
         fun onImageClick(position: Int, imageUrl: String)
     }
 }
-

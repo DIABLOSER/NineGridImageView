@@ -34,6 +34,7 @@ class PostAdapter(
 
         //设置自动分布
         holder.nineGridImageView.setAutoDistribution(true)
+        holder.nineGridImageView.setMaxSingleImageWidth(300) // 设置单张图片的最大宽度为 300px
         // 设置图片链接数组
         holder.nineGridImageView.setImageUrls(datasBean.imageUrl)
         //点击事件
