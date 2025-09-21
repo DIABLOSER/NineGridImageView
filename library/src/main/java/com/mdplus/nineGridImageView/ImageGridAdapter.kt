@@ -16,6 +16,7 @@ import com.mdplus.nineGridImageView.R
  */
 class ImageGridAdapter(
     private val context: Context,
+    private var baseUrl: String? = null,
     private val imageUrls: List<String>,
     private var ImageLoading: Drawable? = null,
     private var ImageLoadedError: Drawable? = null
@@ -33,7 +34,7 @@ class ImageGridAdapter(
 
         // 使用 Glide 加载图片
         Glide.with(context)
-            .load(imageUrls[position])
+            .load(getAbsoluteImageUrl(baseUrl,imageUrls[position]))
             .placeholder(ImageLoading) // 加载中的占位图
             .error(ImageLoadedError) // 加载失败的占位图
             .into(holder.imageView)
@@ -50,6 +51,14 @@ class ImageGridAdapter(
 
     inner class ImageViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val imageView: SquareImageView = itemView.findViewById(R.id.imageView)
+    }
+    fun getAbsoluteImageUrl(baseUrl: String?,url: String?): String? {
+        if(url!!.startsWith("http")||url.startsWith("https")){
+            //图片链接
+            return url
+        }
+        //相对路径
+        return "${baseUrl}$url"
     }
 }
 

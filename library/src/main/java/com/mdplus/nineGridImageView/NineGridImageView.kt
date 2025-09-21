@@ -21,6 +21,7 @@ class NineGridImageView @JvmOverloads constructor(
     private var imageLoading: Drawable? = null
     private var imageLoadedError: Drawable? = null
     private var maxSingleImageWidth: Int = 500 // 默认最大宽度
+    private var baseUrl: String? = null
 
     init {
         // 初始化代码块（如果有需要）
@@ -34,7 +35,7 @@ class NineGridImageView @JvmOverloads constructor(
         // 根据图片数量设置 LayoutManager
         updateLayoutManager(imageUrls.size)
         // 设置适配器
-        adapter = ImageGridAdapter(context, imageUrls, imageLoading, imageLoadedError)
+        adapter = ImageGridAdapter(context, baseUrl,imageUrls, imageLoading, imageLoadedError)
     }
 
     /**
@@ -112,6 +113,11 @@ class NineGridImageView @JvmOverloads constructor(
     fun setMaxSingleImageWidth(maxWidth: Int) {
         this.maxSingleImageWidth = maxWidth
         requestLayout() // 请求重新布局
+    }
+
+    // 设置图片的 BaseUrl相对路径
+    fun setBaseUrl(baseUrl: String?){
+        this.baseUrl = baseUrl
     }
 
     // 定义接口处理点击事件
